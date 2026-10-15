@@ -1,0 +1,15 @@
+# Python 與虛擬環境快取
+__pycache__/
+*.py[cod]
+.env
+
+# 模型權重與資料集 (體積過大不進 Git)
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.gguf
+models/
+cache/
+wandb/
+logs/
