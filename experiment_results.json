@@ -1,0 +1,29 @@
+{
+  "GNN-Only": {
+    "Precision": 100.0,
+    "Recall": 66.66666666666666,
+    "F1": 80.0,
+    "ASR": 33.33333333333333,
+    "FPR": 0.0,
+    "Avg_Latency_ms": 1.1558499999999998,
+    "SLM_Trigger_Rate": 0.0
+  },
+  "SLM-Only": {
+    "Precision": 78.94736842105263,
+    "Recall": 100.0,
+    "F1": 88.23529411764706,
+    "ASR": 0.0,
+    "FPR": 80.0,
+    "Avg_Latency_ms": 1363.23,
+    "SLM_Trigger_Rate": 100.0
+  },
+  "E-MCP-Shield": {
+    "Precision": 100.0,
+    "Recall": 100.0,
+    "F1": 100.0,
+    "ASR": 0.0,
+    "FPR": 0.0,
+    "Avg_Latency_ms": 310.14935,
+    "SLM_Trigger_Rate": 25.0
+  }
+}
